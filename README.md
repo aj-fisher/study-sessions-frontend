@@ -15,7 +15,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying to Heroku
 
-```
+```sh
 $ heroku git:remote -a study-sessions-frontend # if not added already
 
 $ heroku create
